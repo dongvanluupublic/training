@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('inbox');
+});
+
+Route::get('detail', function () {
+    return view('detail');
 });
