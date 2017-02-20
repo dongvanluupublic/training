@@ -31,16 +31,16 @@
         <a href="/detail" class="list-group-item">Daily Report 14/02/2017 - Van Luu <span class="text-muted small">- Dear Mr Hieu, Food is my passion. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</span> -Feb 14</a>
     </div>
     <div class="text-center">
-    <ul class="pagination">
-        <li><a href="#">&lt;</a></li>
-        <li><a href="#">&lt;&lt;</a></li>
-        <li class="active"><a href="#">1</a></li>
-        <li><a href="#">2</a></li>
-        <li><a href="#">3</a></li>
-        <li><a href="#">4</a></li>
-        <li><a href="#">5</a></li>
-        <li><a href="#">&gt;</a></li>
-        <li><a href="#">&gt;&gt;</a></li>
-    </ul>
+        <ul class="pagination">
+            <li><a href="#">&lt;</a></li>
+            <li><a href="#">&lt;&lt;</a></li>
+            <li class="active"><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li><a href="#">3</a></li>
+            <li><a href="#">4</a></li>
+            <li><a href="#">5</a></li>
+            <li><a href="#">&gt;</a></li>
+            <li><a href="#">&gt;&gt;</a></li>
+        </ul>
     </div>
 @endsection
